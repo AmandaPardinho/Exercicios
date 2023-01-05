@@ -15,5 +15,7 @@ public class TabuadaAleatoria {
             int tabuada = numero * i;
             System.out.println(numero + " x " + i + " = " + tabuada);
         }
+
+        scanner.close();
     }
 }
