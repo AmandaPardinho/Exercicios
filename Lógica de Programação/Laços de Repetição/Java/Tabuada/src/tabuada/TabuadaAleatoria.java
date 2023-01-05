@@ -1,2 +1,5 @@
-package tabuada;public class TabuadaAleatoria {
+package tabuada;
+
+public class TabuadaAleatoria {
+    
 }
